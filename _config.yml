@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Amirhesam Jafari Rad"
+title                    : "Mana Mohammadi"
 title_separator          : "-"
-name                     : &name "Amirhesam Jafari Rad"
+name                     : &name "Mana Mohammadi"
 description              : &description "personal description"
-url                      : https://amirhjrad.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://manamoha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amirhjrad/amirhjrad.github.io"
+repository               : "manamoha/manamoha.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "amirhjrad/amirhjrad.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Amirhesam Jafari Rad"
+  name             : "Mana Mohammadi"
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. Student of EE at University of Tehran"
   location         : "Tehran, Iran"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "a.h.jafarirad@gmail.com" 
+  email            : "manamoha2831@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "amirhjrad"
+  github           : "manamoha"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  "amirhesam-jafarirad"
+  linkedin         :  "mana-mohammadi-00b68a285"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
