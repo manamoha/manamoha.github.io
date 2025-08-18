@@ -12,8 +12,8 @@ author_profile: true
   <p>
     A deep learning project leveraging YOLO for automatic brain tumor detection in MRI scans. 
     Trained on the Ultralytics dataset, the model achieves strong performance with a mean IoU of 0.7364 on the validation set.
-    <!-- <br> -->
-    <a href="https://github.com/manamoha/Brain-Tumor-Detection.git" target="_blank">[GitHub]</a>
+    <br>
+    <a href="https://github.com/manamoha/Brain-Tumor-Detection.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -25,7 +25,7 @@ author_profile: true
   <p>
     A deep learning project using YOLOv8 for real-time face detection. Covers the full pipeline from dataset preparation and model training to evaluation, achieving strong performance metrics for practical applications.
     <br>
-    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
+    <a href="https://github.com/manamoha/Face-Detection.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -36,7 +36,7 @@ author_profile: true
   <p>
     A computer vision–based virtual piano that detects finger positions on the keys and plays notes in real time. Includes a dataset builder and a high-accuracy CNN model for finger detection.
     <br>
-    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
+    <a href="https://github.com/manamoha/Virtual-Piano.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -47,18 +47,18 @@ author_profile: true
   <p>
     Built a serious game using grip sensor input to support hand strength rehabilitation, integrating signal processing and interactive design.
     <br>
-    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
+    <!-- <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
   </p>
 </details>
 
 <details>
   <summary>
-    <strong>[SW] Stroke Diagnosis with DWI MRI</strong>
+    <strong>[SW] Brain Stroke Diagnosis from DWI MRI</strong>
   </summary>
   <p>
      Developed a stroke classification pipeline using wavelet transforms and graph-based modeling on DWI MRI images for early detection.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/bank" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/Brain-Stroke-Detection-Using-Wavelet-Transform-MLP.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -69,7 +69,7 @@ author_profile: true
   <p>
      Trained a CNN to classify dog breeds, leveraging image preprocessing, model tuning, and efficient architecture design.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/BubbleSorter" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS_Project_P3.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -80,7 +80,7 @@ author_profile: true
   <p>
     Used classical ML with handcrafted features and Random Forest to classify dog breeds in images, demonstrating traditional vision approaches.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/CA3" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS_Project_P3.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -91,7 +91,7 @@ author_profile: true
   <p>
      Fine-tuned a pre-trained VGG16 model for dog breed identification, achieving high accuracy with minimal training data.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/CA5" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS_Project_P3.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -102,7 +102,7 @@ author_profile: true
   <p>
      Created a MATLAB tool that censors specific words from one speaker and replaces them with a different voice using signal matching.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/CNN" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DSPCA2.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -113,7 +113,7 @@ author_profile: true
   <p>
     Used DFT for image compression and kernel-based methods for image enhancement in MATLAB, focusing on visual quality and performance.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/ESL_2" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DSPCA2.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -124,7 +124,7 @@ author_profile: true
   <p>
      Processed EEG signals in MATLAB to separate mental states and brain activities, supporting neuroscience research applications.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/esl_leros" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/IBME_CA1.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -135,7 +135,7 @@ author_profile: true
   <p>
     Built a classic snake game in C++ with responsive controls and memory-efficient design.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/Filter-Image" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/ICSP_CA1.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -146,7 +146,7 @@ author_profile: true
   <p>
     Created a full-featured user management software in C++ for handling cafeteria operations smoothly.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/hospital" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/ICSP_CA2.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -157,7 +157,7 @@ author_profile: true
   <p>
     Developed a controller model in MATLAB to ensure equilibrium and sustainability in water tank systems.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/LCS" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/LCS_CA.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -168,7 +168,7 @@ author_profile: true
   <p>
      Designed a MATLAB system to detect and recognize vehicle license plates from video streams using correlation techniques.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/MSSD" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/SignalAndSystemsCA.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -179,7 +179,7 @@ author_profile: true
   <p>
      Simulated analog and digital modulation methods (AM, FM, SSB, PCM, PWM, etc.) with and without noise, evaluating performance.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/OO_1" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/SignalAndSys_CA.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -190,7 +190,7 @@ author_profile: true
   <p>
      Programmed a rescue robot in C++ to navigate mazes, detect obstacles, and perform tasks autonomously using a PIC microcontroller.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/Risc-v" target="_blank">View on GitHub</a> -->
+    <!-- 🔗 <a href="" target="_blank">View on GitHub</a> -->
   </p>
 </details>
 
@@ -201,7 +201,7 @@ author_profile: true
   <p>
     Designed and implemented a five-stage pipelined MIPS processor in Verilog using Vivado, showcasing mastery in pipelining, control logic, and simulation.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/MIPS-implementation.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -212,7 +212,7 @@ author_profile: true
   <p>
     Built RTL architecture of a synchronous serial demux system with multi-channel support, ensuring precise logic synchronization and data separation.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS_CA4-5.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -223,7 +223,7 @@ author_profile: true
   <p>
       Developed a selection sort algorithm in Verilog with optimized RTL design for speed and efficiency in hardware execution.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS_CA6.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -234,7 +234,7 @@ author_profile: true
   <p>
      Implemented a bubble sort engine in Verilog, balancing simplicity and speed while exploring sorting algorithm design in hardware.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS2_CA1.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -245,6 +245,6 @@ author_profile: true
   <p>
      Designed single-cycle, multi-cycle, and pipelined RISC-V CPUs from scratch in Verilog, building instruction sets, control paths, and datapaths.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/DS2_CA2-3-4.git" target="_blank">View on GitHub</a>
   </p>
 </details>
