@@ -7,59 +7,35 @@ author_profile: true
 
 <details>
   <summary>
-    <strong>[HW] 5-Stage Pipelined MIPS Processor</strong>
+    <strong>[SW] Brain Tumor Detection with YOLO</strong>
   </summary>
   <p>
-    Designed and implemented a five-stage pipelined MIPS processor in Verilog using Vivado, showcasing mastery in pipelining, control logic, and simulation.
+    A deep learning project leveraging YOLO for automatic brain tumor detection in MRI scans. Trained on the Ultralytics dataset, the model achieves strong performance with a mean IoU of 0.7364 on the validation set.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/manamoha/Brain-Tumor-Detection.git" target="_blank">[GitHub]</a>
+</details>
+
+<details>
+  <summary>
+    <strong>[SW] Face Detection with YOLOv8</strong>
+  </summary>
+  <p>
+    A deep learning project using YOLOv8 for real-time face detection. Covers the full pipeline from dataset preparation and model training to evaluation, achieving strong performance metrics for practical applications.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
   </p>
 </details>
 
 <details>
   <summary>
-    <strong>[HW] Multi-Channel Serial Demultiplexer (MSSD)</strong>
+    <strong>[SW] Virtual Piano with Finger Detection</strong>
   </summary>
   <p>
-    Built RTL architecture of a synchronous serial demux system with multi-channel support, ensuring precise logic synchronization and data separation.
+    A computer vision–based virtual piano that detects finger positions on the keys and plays notes in real time. Includes a dataset builder and a high-accuracy CNN model for finger detection.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+    <!-- 🔗 <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
   </p>
 </details>
-
-<details>
-  <summary>
-    <strong>[HW] High-Performance Selection Sorter</strong>
-  </summary>
-  <p>
-      Developed a selection sort algorithm in Verilog with optimized RTL design for speed and efficiency in hardware execution.
-    <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
-  </p>
-</details>
-
-<details>
-  <summary>
-    <strong>[HW] Bubble Sort Hardware Implementation</strong>
-  </summary>
-  <p>
-     Implemented a bubble sort engine in Verilog, balancing simplicity and speed while exploring sorting algorithm design in hardware.
-    <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
-  </p>
-</details>
-
-<details>
-  <summary>
-    <strong>[HW] RISC-V Processor Variants</strong>
-  </summary>
-  <p>
-     Designed single-cycle, multi-cycle, and pipelined RISC-V CPUs from scratch in Verilog, building instruction sets, control paths, and datapaths.
-    <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
-  </p>
-</details>
-
 
 <details>
   <summary>
@@ -215,4 +191,57 @@ author_profile: true
   </p>
 </details>
 
+<details>
+  <summary>
+    <strong>[HW] 5-Stage Pipelined MIPS Processor</strong>
+  </summary>
+  <p>
+    Designed and implemented a five-stage pipelined MIPS processor in Verilog using Vivado, showcasing mastery in pipelining, control logic, and simulation.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+  </p>
+</details>
 
+<details>
+  <summary>
+    <strong>[HW] Multi-Channel Serial Demultiplexer (MSSD)</strong>
+  </summary>
+  <p>
+    Built RTL architecture of a synchronous serial demux system with multi-channel support, ensuring precise logic synchronization and data separation.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+  </p>
+</details>
+
+<details>
+  <summary>
+    <strong>[HW] High-Performance Selection Sorter</strong>
+  </summary>
+  <p>
+      Developed a selection sort algorithm in Verilog with optimized RTL design for speed and efficiency in hardware execution.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+  </p>
+</details>
+
+<details>
+  <summary>
+    <strong>[HW] Bubble Sort Hardware Implementation</strong>
+  </summary>
+  <p>
+     Implemented a bubble sort engine in Verilog, balancing simplicity and speed while exploring sorting algorithm design in hardware.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+  </p>
+</details>
+
+<details>
+  <summary>
+    <strong>[HW] RISC-V Processor Variants</strong>
+  </summary>
+  <p>
+     Designed single-cycle, multi-cycle, and pipelined RISC-V CPUs from scratch in Verilog, building instruction sets, control paths, and datapaths.
+    <br>
+    <!-- 🔗 <a href="https://github.com/amirhjrad/VLSI_layout" target="_blank">View on GitHub</a> -->
+  </p>
+</details>
