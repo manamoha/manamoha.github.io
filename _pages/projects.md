@@ -10,10 +10,13 @@ author_profile: true
     <strong>[SW] Brain Tumor Detection with YOLO</strong>
   </summary>
   <p>
-    A deep learning project leveraging YOLO for automatic brain tumor detection in MRI scans. Trained on the Ultralytics dataset, the model achieves strong performance with a mean IoU of 0.7364 on the validation set.
-    <br>
+    A deep learning project leveraging YOLO for automatic brain tumor detection in MRI scans. 
+    Trained on the Ultralytics dataset, the model achieves strong performance with a mean IoU of 0.7364 on the validation set.
+    <!-- <br> -->
     <a href="https://github.com/manamoha/Brain-Tumor-Detection.git" target="_blank">[GitHub]</a>
+  </p>
 </details>
+
 
 <details>
   <summary>
@@ -22,7 +25,7 @@ author_profile: true
   <p>
     A deep learning project using YOLOv8 for real-time face detection. Covers the full pipeline from dataset preparation and model training to evaluation, achieving strong performance metrics for practical applications.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -33,7 +36,7 @@ author_profile: true
   <p>
     A computer vision–based virtual piano that detects finger positions on the keys and plays notes in real time. Includes a dataset builder and a high-accuracy CNN model for finger detection.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
   </p>
 </details>
 
@@ -44,7 +47,7 @@ author_profile: true
   <p>
     Built a serious game using grip sensor input to support hand strength rehabilitation, integrating signal processing and interactive design.
     <br>
-    <!-- 🔗 <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a> -->
+    <a href="https://github.com/amirhjrad/amirhjrad.github.io" target="_blank">View on GitHub</a>
   </p>
 </details>
 
