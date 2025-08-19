@@ -22,7 +22,7 @@ author_profile: true
     <strong>[SW] Face Detection with YOLOv8</strong>
   </summary>
   <p>
-    Developed and trained a YOLOv8 model for real-time face detection, covering dataset preparation, model training, and evaluation with strong performance metrics.
+    Developed and trained a YOLOv8 model for face detection, covering dataset preparation, model training, and evaluation with strong performance metrics.
     <br>
     <a href="https://github.com/manamoha/Face-Detection.git" target="_blank">View on GitHub</a>
   </p>
