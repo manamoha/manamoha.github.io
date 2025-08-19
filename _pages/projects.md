@@ -10,8 +10,7 @@ author_profile: true
     <strong>[SW] Brain Tumor Detection with YOLO</strong>
   </summary>
   <p>
-    A deep learning project leveraging YOLO for automatic brain tumor detection in MRI scans. 
-    Trained on the Ultralytics dataset, the model achieves strong performance with a mean IoU of 0.7364 on the validation set.
+    Built a YOLO-based deep learning pipeline for automatic brain tumor detection in MRI scans, achieving a mean IoU of 0.7364 on the validation set.
     <br>
     <a href="https://github.com/manamoha/Brain-Tumor-Detection.git" target="_blank">View on GitHub</a>
   </p>
@@ -23,7 +22,7 @@ author_profile: true
     <strong>[SW] Face Detection with YOLOv8</strong>
   </summary>
   <p>
-    A deep learning project using YOLOv8 for real-time face detection. Covers the full pipeline from dataset preparation and model training to evaluation, achieving strong performance metrics for practical applications.
+    Developed and trained a YOLOv8 model for real-time face detection, covering dataset preparation, model training, and evaluation with strong performance metrics.
     <br>
     <a href="https://github.com/manamoha/Face-Detection.git" target="_blank">View on GitHub</a>
   </p>
@@ -34,7 +33,7 @@ author_profile: true
     <strong>[SW] Virtual Piano with Finger Detection</strong>
   </summary>
   <p>
-    A computer vision–based virtual piano that detects finger positions on the keys and plays notes in real time. Includes a dataset builder and a high-accuracy CNN model for finger detection.
+    Designed and implemented a computer vision–based virtual piano that detects finger positions on keys in real time using a CNN model, enabling interactive sound playback.
     <br>
     <a href="https://github.com/manamoha/Virtual-Piano.git" target="_blank">View on GitHub</a>
   </p>
