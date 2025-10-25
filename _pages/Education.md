@@ -4,6 +4,9 @@ title: "Education"
 author_profile: true
 ---
 
+### M.Sc.
+- <img src="/images/TMU.png" width="50" alt="Tarbiat Modares University" /> **Biomedical Engineering**, [Tarbiat Modares University](https://modares.ac.ir/), 2021-2025
+
 ### B.Sc.
 - <img src="/images/UT.png" width="50" alt="University of Tehran" /> **Electrical Engineering**, [University of Tehran](https://ut.ac.ir/), 2021-2025
 

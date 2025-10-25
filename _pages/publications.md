@@ -14,6 +14,4 @@ Discrete Mathematics and Its Application*, Published.
 Neural Networks on DWI MRI Images", ARXIV Preprint.
    
 - A. Ebrahimi, M. Mohammadi, "Controllability Analysis of Human Protein Interaction Networks to Identify 
-Disease Genes and Drug Targets for Drug Repurposing", Under Preparation.
-
-
+Disease Genes and Drug Targets for Drug Repurposing", Submitted to Scientific Reports.

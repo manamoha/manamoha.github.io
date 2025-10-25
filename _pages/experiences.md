@@ -9,8 +9,9 @@ author_profile: true
 
 ## **RESEARCH ASSISTANT EXPERIENCES**
 
-### University of Tehran:
-- **Controllability Analysis on Protein Interaction Networks** (Jul 2024 – Now) | Dr. Ali Ebrahimi
+- **Deep Learning–Based Classification of EEG Signals for Prosthetic Arm Control** (Sep 2025 - Now) | Prof. Slawomir Nasuto & Dr. Ian Daly
+- **Deep Learning-Based Classification of EEG Datasets** (Sep 2025 - Now) | Prof. Muhammad Shafique
+- **Controllability Analysis on Protein Interaction Networks** (Jul 2024 – Jul 2025) | Dr. Ali Ebrahimi
 - **Graph Theory and Entropy** (Jan 2024 - Aug 2024) | Dr. Arezoo N. Ghameshlou
 
 

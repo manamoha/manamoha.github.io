@@ -12,6 +12,6 @@ redirect_from:
 
 # Welcome to My Website! 
  Hi, I'm Mana Mohammadi!
-I'm an electrical engineering student from the University of Tehran.
+I'm a biomedical engineering student from the Tarbiat Modares University.
 I'm particularly passionate about blending signal processing, data analysis, and machine learning to solve biomedical challenges.
 
