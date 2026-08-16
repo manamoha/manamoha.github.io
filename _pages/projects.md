@@ -7,6 +7,28 @@ author_profile: true
 
 <details>
   <summary>
+    <strong>[SW] Cerebral Stroke Prediction using Machine Learning</strong>
+  </summary>
+  <p>
+    Developed a convolutional neural network (CNN) to estimate chronological age from functional MRI (fMRI) brain image.
+    <br>
+    <a href="https://github.com/manamoha/Cerebral-Stroke-Prediction.git" target="_blank">View on GitHub</a>
+  </p>
+</details>
+
+<details>
+  <summary>
+    <strong>[SW] Brain Age Prediction from fMRI Images</strong>
+  </summary>
+  <p>
+    Developed a convolutional neural network (CNN) to estimate chronological age from functional MRI (fMRI) brain images.
+    <br>
+    <a href="https://github.com/manamoha/Brain-Age-Prediction.git" target="_blank">View on GitHub</a>
+  </p>
+</details>
+
+<details>
+  <summary>
     <strong>[SW] Brain Tumor Detection with YOLO</strong>
   </summary>
   <p>

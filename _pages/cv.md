@@ -40,6 +40,19 @@ redirect_from:
 ---
 
 ## **RESEARCH EXPERIENCE**  
+
+### Research
+**Feb 2026 - Now**
+- Investigating EEG-based approaches for Alzheimer’s disease detection using signal processing, feature extraction, and machine learning/deep learning methods
+
+### Remote Research
+**Sep 2025 -Now**
+- Investigating EEG–fMRI approaches to study the relationship between cortical activity and subcortical affective processing during approach–withdrawal behavior while listening to emotionally evocative music.
+
+### Remote Research
+**Sep 2025 - Feb 2026**
+Developing deep learning methods for EEG-based motor imagery classification and real-time prosthetic control.
+
 ### Internship  
 **Jul 2024 - Oct 2024**  
 - Controllability analysis on human protein interaction networks to identify disease genes and drug targets for drug repurposing efforts. 
@@ -58,9 +71,10 @@ redirect_from:
 ---
 
 ## **PUBLICATIONS**  
-**Pending Publications:**  
-- *A. N. Ghameshlou, A. Jafari Rad, M. Mohammadi*, “A note on the domination entropy of graphs,” Journal of Discrete Mathematics and Its Application (Under Review). 
-- *A. Ebrahimi, M. Mohammadi*, “Controllability Analysis of Human Protein Interaction Networks to Identify Disease Genes and Drug Targets for Drug Repurposing” (Under Preparation)
+**Pending Publications:**
+- *M. Mohammadi, A. Jafari Rad, A. Behrouzi*, “Brain Stroke Classification Using Wavelet Transform and MLP Neural Networks on DWI MRI Images”, ARXIV Preprint      
+- *A. N. Ghameshlou, A. Jafari Rad, M. Mohammadi*, “A note on the domination entropy of graphs”, Journal of Discrete Mathematics and Its Application, Accepted. 
+- *A. Ebrahimi, M. Mohammadi*, “Controllability Analysis of Human Protein Interaction Networks to Identify Disease Genes and Drug Targets for Drug Repurposing”
 ---
 
 ## **SKILLS**  

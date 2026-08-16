@@ -8,8 +8,8 @@ author_profile: true
 ---
 
 ## Who Am I?
-My name is Mana Mohammadi, and I’m a 22-year-old electrical engineering student specializing in biomedical engineering. I’m currently in my first year of Master's at Tarbiat Modares University, where I focus on combining engineering principles with medical sciences to solve complex healthcare problems.
+My name is Mana Mohammadi, I hold a Bachelor's degree in Electrical Engineering, and I’m currently pursuing my Master's degree in Biomedical Engineering at Tarbiat Modares University.
 
 ## My Research Interests?
 
-My research interests focus on the intersection of biomedical engineering, neuroscience, and computational biology. I am passionate about solving real-world problems through engineering, deep learning, and data-driven approaches—whether in healthcare, signal processing, or broader complex systems. I enjoy tackling challenges that require analytical thinking, creativity, and interdisciplinary tools to make meaningful impact.
+My research interests lie at the intersection of biomedical engineering, neuroscience, and computational biology. I’m particularly interested in biomedical signal and image processing, deep learning, and data-driven approaches for healthcare applications. I enjoy working on problems that combine engineering, computation, and medical sciences, and I’m also open to exploring new research areas and taking on projects beyond my current interests.
