@@ -9,13 +9,17 @@ author_profile: true
 
 ## **RESEARCH ASSISTANT EXPERIENCES**
 
-- **Deep Learning–Based Classification of EEG Signals for Prosthetic Arm Control** (Sep 2025 - Now) | Prof. Slawomir Nasuto & Dr. Ian Daly
-- **Deep Learning-Based Classification of EEG Datasets** (Sep 2025 - Now) | Prof. Muhammad Shafique
+- **Deep Learning–Based Classification of EEG Signals for Alzheimer’s disease and Frontotemporal dementia (FTD)** (Feb 2026 - Now) | Prof. Babak Mohammadzadeh Asl
+- **EEG–fMRI Study of Approach–Withdrawal Behavior** (Sep 2025 - Now) | Prof. Slawomir Nasuto & Dr. Ian Daly
+- **Deep Learning–Based Classification of EEG Signals for Prosthetic Arm Control** (Sep 2025 -  Feb 2026) | Prof. Muhammad Shafique
 - **Controllability Analysis on Protein Interaction Networks** (Jul 2024 – Jul 2025) | Dr. Ali Ebrahimi
 - **Graph Theory and Entropy** (Jan 2024 - Aug 2024) | Dr. Arezoo N. Ghameshlou
 
 
 ## **TEACHING ASSISTANT EXPERIENCES**
+
+### Tarbiat Modares University
+- **Digital Signal Processing** (Nov 2026 - Now)
 
 ### University of Tehran: 
 - **Electromagnetics** (Oct 2023 - Jan 2024) | Dr. Leila Yousefi  
