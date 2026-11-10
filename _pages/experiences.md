@@ -19,7 +19,7 @@ author_profile: true
 ## **TEACHING ASSISTANT EXPERIENCES**
 
 ### Tarbiat Modares University
-- **Digital Signal Processing** (Nov 2026 - Now)
+- **Digital Signal Processing** (Nov 2026 - Now) | Prof. Babak Mohammadzadeh Asl
 
 ### University of Tehran: 
 - **Electromagnetics** (Oct 2023 - Jan 2024) | Dr. Leila Yousefi  
