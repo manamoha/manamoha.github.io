@@ -7,12 +7,11 @@ author_profile: true
 
 <details>
   <summary>
-    <strong>[SW] Cerebral Stroke Prediction using Machine Learning</strong>
+    <strong>[SW] EEG-Based Alzheimer’s Disease Detection Using Deep Learning</strong>
   </summary>
   <p>
-    Developed a convolutional neural network (CNN) to estimate chronological age from functional MRI (fMRI) brain image.
+    Investigating EEG-based computational approaches for Alzheimer’s disease and Frontotemporal Dementia (FTD) detection using deep learning methods.
     <br>
-    <a href="https://github.com/manamoha/Cerebral-Stroke-Prediction.git" target="_blank">View on GitHub</a>
   </p>
 </details>
 
